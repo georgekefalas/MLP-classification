@@ -6,12 +6,14 @@ The implementation supports multi-class classification using a fully connected n
 The project uses separate training and testing datasets (`train.txt` and `test.txt`) in TXT format and includes functionality for training, evaluation and prediction.
 
 
+
 ## Project Documentation
 
-A detailed explanation of the MLP implementation, training procedure, and SDT classification problem is included in:  
+A detailed explanation of the MLP implementation, training procedure and SDT classification problem is included in:  
 **`Report.pdf`**
 
 The first page of the report lists the **SDT classes** used in the project.
+
 
 
 ## Dataset Files
@@ -20,6 +22,7 @@ The first page of the report lists the **SDT classes** used in the project.
 - **`test.txt`** – dataset used for evaluating the MLP  
 
 Both files must follow the format: `x1,x2,label` (no header).
+
 
 
 ## Features
